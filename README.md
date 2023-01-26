@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/juliakordick/ado-demo/_apis/build/status/jkordick.js-e2e-express-server?branchName=main)](https://dev.azure.com/juliakordick/ado-demo/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
